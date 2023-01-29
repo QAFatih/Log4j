@@ -1,0 +1,5 @@
+2023-01-29 18:31:23,355 FATAL L.C01_log4J_01 [main] fatal log!
+2023-01-29 18:31:23,367 ERROR L.C01_log4J_01 [main] error log!
+2023-01-29 18:31:23,368 WARN L.C01_log4J_01 [main] Warm Log!
+2023-01-29 18:31:23,368 DEBUG L.C01_log4J_01 [main] Debug log!
+2023-01-29 18:31:23,368 INFO L.C01_log4J_01 [main] info log!
